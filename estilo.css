@@ -1,0 +1,29 @@
+html body { background-color: #116688;}
+.ender {
+        color: #EEEE22;
+        font-family: Lora, georgia,serif;
+       }
+.apres { 
+        color: #EEEE22;
+        font-family: Rubik, verdana, sans-serfif;
+        }
+table{
+        width: 100%;
+        border-collapse: collapse;
+}
+
+a:link  {
+        color:#FFFF22;
+
+        }
+a:visited {
+        color:#DDDD22;
+
+          }
+          th, td {
+                padding: 0px;
+                text-align:left;
+            }
+li      {
+        padding: 10px;
+        }
