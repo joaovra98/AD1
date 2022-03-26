@@ -1,4 +1,17 @@
 html body { background-color: #116688;}
+header {
+        display: block; 
+        margin-bottom: 1px; 
+        }
+nav     {
+        float: left;
+        width: 35%;
+        height: 300px; 
+        padding: 20px;
+        }
+main    {
+        padding: 20px;
+}
 .ender {
         color: #EEEE22;
         font-family: Lora, georgia,serif;
